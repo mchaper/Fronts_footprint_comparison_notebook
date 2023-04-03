@@ -22,7 +22,7 @@ Run the notebook fronts_footprint_comparison.ipynb
 
 ## Contributing
 
-No contirbutions.
+No contributions.
 
 ## License
 
