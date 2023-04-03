@@ -1,0 +1,10 @@
+pandas==1.4.2
+geopandas==0.10.2
+xarray==2022.3.0
+shapely==1.8.0
+matplotlib==3.4.3
+numpy==1.22.4
+cartopy==0.20.2
+scipy==1.8.1
+cv2==4.6.0.66
+pydap==3.3.0
